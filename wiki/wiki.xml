@@ -1,4 +1,4 @@
-<Context path="/wiki" docBase="c:\users\michael\workspace\wiki\web">
+<Context path="/wiki" docBase="c:\users\michael\git\wiki\wiki\web">
     <Resource name="datasource"  
               type="javax.sql.DataSource"
               auth="Container"
